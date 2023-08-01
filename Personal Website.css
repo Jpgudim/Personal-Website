@@ -1,7 +1,16 @@
 h1 {
-    color: green;
+    color: lightgreen;
+    background-color:rgb(110, 110, 110);
+    font-family: monospace;
 }
 
 h4 {
-    color: aqua;
+    color: rgb(88, 241, 241);
+    background-color:rgb(110, 110, 110);
+    font-family: monospace;
+}
+
+p,
+li {
+    font-family: sans-serif;
 }
