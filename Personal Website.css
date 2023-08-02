@@ -1,16 +1,28 @@
+body {
+    background-color: rgb(184, 184, 184);
+}
+
 h1 {
     color: lightgreen;
     background-color:rgb(110, 110, 110);
     font-family: monospace;
+    text-align: center;
+    font-size: 32px;
 }
 
-h4 {
+h2 {
     color: rgb(88, 241, 241);
-    background-color:rgb(110, 110, 110);
     font-family: monospace;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 p,
 li {
     font-family: sans-serif;
+    font-size: 14px;
+}
+
+nav {
+    text-align: center;
 }
