@@ -8,6 +8,9 @@ h1 {
     font-family: monospace;
     text-align: center;
     font-size: 32px;
+    border: 3px solid grey;
+    border-radius: 10px;
+    padding: 3px;
 }
 
 h2 {
@@ -15,6 +18,11 @@ h2 {
     font-family: monospace;
     font-size: 18px;
     font-weight: bold;
+    border: 3px solid grey;
+    padding: 10px;
+    background-color: rgb(110, 110, 110);
+    border: 3px solid grey;
+    border-radius: 10px;
 }
 
 p,
