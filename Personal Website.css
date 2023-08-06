@@ -49,3 +49,8 @@ a {
 li {
     margin-top: 10px;
 }
+
+.intro {
+    text-align: center;
+    margin: 20px;
+}
