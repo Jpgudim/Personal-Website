@@ -54,3 +54,9 @@ li {
     text-align: center;
     margin: 20px;
 }
+
+.porsche-image {
+    font-family: sans-serif;
+    font-size: 11px;
+    font-style: italic;
+}
